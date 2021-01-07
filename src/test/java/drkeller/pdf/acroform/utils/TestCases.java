@@ -2,9 +2,6 @@ package drkeller.pdf.acroform.utils;
 
 import java.util.List;
 
-import drdkeller.pdf.acroform.utils.FoundTextPosition;
-import drdkeller.pdf.acroform.utils.PdfFormUtils;
-
 public class TestCases {
 
 	public static void main(String[] args) throws Exception {

@@ -1,4 +1,4 @@
-package drdkeller.pdf.acroform.utils;
+package drkeller.pdf.acroform.utils;
 
 import java.awt.Container;
 import java.awt.GridBagConstraints;
